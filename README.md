@@ -12,4 +12,4 @@ nuke.pluginAddPath("./reset_expose_gain")
 
 
 
-Update  Python Tools Nuke Version  Working Code  Nuke 14 Nuke 15 Nuke 16 
+Update  Python Tools Nuke Version  Working Code                    Nuke 14 Nuke 15 Nuke 16 
