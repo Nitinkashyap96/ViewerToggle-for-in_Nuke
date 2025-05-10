@@ -4,25 +4,16 @@
 
 
 
-init.py install in Nuke .nuke folder 
-
-nuke.pluginAddPath("./reset_expose_gain")
-  
-
 
 
 
 Update  Python Tools Nuke Version  Working Code                    Nuke 14 Nuke 15 Nuke 16 
 
+#   Installation
 
-# Linux:
-cd ~/.nuke
+init.py install in Nuke .nuke folder 
 
-git clone --recursive  https://github.com/Nitinkashyap96/ViewerToggle-for-in_Nuke-15_and_16.git
+nuke.pluginAddPath("./ViewerToggle-for-in_Nuke")
 
 
-# Windows
-# Download git: https://git-scm.com/download/win
-
-git clone --recursive  https://github.com/Nitinkashyap96/ViewerToggle-for-in_Nuke-15_and_16.git
 
